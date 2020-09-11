@@ -1,0 +1,5 @@
+name: PDM_API_TEST
+version: 1.0-SNAPSHOT
+main: me.athlaeos.pdmapitest.Main
+api-version: 1.15
+depend: [ProgressiveDifficulty_MOBS]
