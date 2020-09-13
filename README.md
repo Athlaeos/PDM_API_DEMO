@@ -3,7 +3,8 @@ API demonstration for the ProgressiveDifficulty_MOBS minecraft plugin
 
 
 Access the API with <PDMApi.getInstance()>, this acts as an easy access point for all the important managers the plugin uses.
-
+</br>
+</br>
 For custom abilities and items a specific format is recommended, examples of which can be viewed in this repository
 
 
