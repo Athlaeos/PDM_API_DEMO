@@ -2,7 +2,7 @@
 ## API demonstration for the ProgressiveDifficulty_MOBS minecraft plugin
 
 
-Access the API with <PDMApi.getInstance()>, this acts as an easy access point for all the important managers the plugin uses.
+Access the API with <PDMApi.getAPI()>, this acts as an easy access point for all the important managers the plugin uses.
 
 If you have your own custom monsters and would like this plugin to not customize them when they spawn, be sure to give them the following metadata in a CreatureSpawnEvent with an eventpriority higher than LOW. The metadata can contain any value, but I chose 'true' here.
 
